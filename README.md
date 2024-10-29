@@ -20,7 +20,7 @@ $T(n)$ = $T\left(\frac{n}{13}\right) + 5$
 
 = $T\left(\frac{n}{13^i}\right) + 5(i)$
 
-For i = $log_(13) $
+For $i = \log_{13} n$
 
 2.
 $$ T(n) =

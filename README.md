@@ -103,7 +103,7 @@ Step 4: Solve
 
 $T(n) = (n^{log_{a} b} * log n)$
 
-Since $n^{log_{13} 13 = n$ 
+Since $n^{log_{13} 13} = n$ 
 
 $T(n) = Theta(n log n)$ is the answer 
 

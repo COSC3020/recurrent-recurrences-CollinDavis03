@@ -62,6 +62,12 @@ f(n) = 5
 
 $n^{log_{a} b}$ = $n^1$ = _n_
 
+Since f(n) is $O(n^{1 - &#949;)$, the Master theorm states $T(n) = Theta(n^{log_{a} b})$
+
+Which will give us T(n) = $Theta(n^1)$ = $Theta(n)$ 
+
+Answer = $Theta(n)$
+
 
 3.
 $$ T(n) =

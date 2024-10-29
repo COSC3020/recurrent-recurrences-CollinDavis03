@@ -24,9 +24,9 @@ For $i = \log_{13} n :$
 
 $T(1) + 5\log_{13} n$ 
 
-= $ log n$ 
+= log n 
 
-= $Theta(log n)$
+= $Theta(log n)$ - Answer
 
 2.
 $$ T(n) =
@@ -37,8 +37,25 @@ $$ T(n) =
 $$
 
 **Answer:**
-  
-4.
+
+Attempt to use the Master theorem method. I am following this website's Master Theorem method. https://www.programiz.com/dsa/master-theorem
+
+Therom method = T(n) = $aT\left(\frac{n}{b}\right) + f(n)$
+
+We have: 
+
+$T(n)$ = $13T\left(\frac{n}{13}\right) + 5$
+
+a = 13 
+
+b = 13
+
+f(n) = 5
+
+Step 2: Need to solve $log_{a} b$
+
+
+3.
 $$ T(n) =
     \begin{cases}
         1 & n \leq 1\\

@@ -54,6 +54,14 @@ f(n) = 5
 
 Step 2: Need to solve $log_{a} b$
 
+$log_{13} 13$ = 1 
+
+Step 3: Compare the f(n) to $log_{a} b$
+
+f(n) = 5 
+
+$n^{log_{a} b}$ = $n^1$ = n
+
 
 3.
 $$ T(n) =

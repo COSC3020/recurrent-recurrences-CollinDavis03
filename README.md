@@ -10,6 +10,18 @@ $$ T(n) =
     \end{cases}
 $$
 
+**Answer:**
+
+Do this with subsitution. 
+
+$T(n)$ = $T\left(\frac{n}{13}\right) + 5$
+
+= $T\left(\frac{n}{13^2}\right) + 5(2)$
+
+= $T\left(\frac{n}{13^i}\right) + 5(i)$
+
+For i = $log_(13) $
+
 2.
 $$ T(n) =
     \begin{cases}
@@ -18,10 +30,14 @@ $$ T(n) =
     \end{cases}
 $$
 
-3.
+**Answer:**
+  
+4.
 $$ T(n) =
     \begin{cases}
         1 & n \leq 1\\
         13 T\left(\frac{n}{13}\right) + 2n & n > 1
     \end{cases}
 $$
+
+**Answer:**

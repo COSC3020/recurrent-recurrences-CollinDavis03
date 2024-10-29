@@ -78,3 +78,38 @@ $$ T(n) =
 $$
 
 **Answer:**
+
+Use the Master theorem again. 
+
+a = 13
+
+b = 13
+
+f(n) = 2n
+
+Step 2: solve $log_{a} b$
+
+$log_{13} 13$ = 1 
+
+Step 3: Compare f(n) to $log_{a} b$ 
+
+f(n) = 2n 
+
+$n^{log_{a} b}$ = $n^1$ = _n_
+
+f(n) is in the same order as log 
+
+Step 4: Solve 
+
+$T(n) = (n^{log_{a} b} * log n)$
+
+Since $n^{log_{13} 13 = n$ 
+
+$T(n) = Theta(n log n)$ is the answer 
+
+
+## Sources 
+The only thing I used was the link I mentioned earlier to learn about the master theorem a little more and how and when it is used. Other than that I did the rest of the solving myself. 
+
+## Plagarism Statement 
+“I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.”

@@ -109,7 +109,7 @@ $T(n) = \theta(n log n)$ is the answer
 
 
 ## Sources 
-The only thing I used was the link I mentioned earlier to learn about the master theorem a little more and how and when it is used. Other than that I did the rest of the solving myself. 
+The only thing I used was the link I mentioned earlier to learn about the master theorem a little more and how and when it is used. Other than that I did the rest of the solving myself. I spoke with the TA, who assisted me with the notation needed for the problem. 
 
 ## Plagarism Statement 
 “I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.”

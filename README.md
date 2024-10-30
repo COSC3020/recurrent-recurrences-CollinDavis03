@@ -66,7 +66,7 @@ Since f(n) is $O(n^{1 - &#949;})$, the Master theorm states $T(n) = Theta(n^{log
 
 Which will give us T(n) = $Theta(n^1)$ = $Theta(n)$ 
 
-Answer = $Theta(n)$
+Answer = $\Theta(n)$
 
 
 3.
@@ -105,7 +105,7 @@ $T(n) = (n^{log_{a} b} * log n)$
 
 Since $n^{log_{13} 13} = n$ 
 
-$T(n) = Theta(n log n)$ is the answer 
+$T(n) = \Theta(n log n)$ is the answer 
 
 
 ## Sources 

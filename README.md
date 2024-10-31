@@ -64,7 +64,7 @@ $n^{log_{a} b}$ = $n^1$ = _n_
 
 Since f(n) is $O(n^{1 - &#949;})$, the Master theorm states $T(n) = Theta(n^{log_{a} b})$
 
-Which will give us T(n) = $Theta(n^1)$ = $Theta(n)$ 
+Which will give us T(n) = $\theta(n^1)$ = $\theta(n)$ 
 
 Answer = $\theta(n)$
 
@@ -105,7 +105,7 @@ $T(n) = (n^{log_{a} b} * log n)$
 
 Since $n^{log_{13} 13} = n$ 
 
-$T(n) = \theta(n log n)$ is the answer 
+Answer = \theta(n log n)$ is the answer 
 
 
 ## Sources 

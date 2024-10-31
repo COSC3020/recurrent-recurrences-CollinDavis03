@@ -105,7 +105,7 @@ $T(n) = (n^{log_{a} b} * log n)$
 
 Since $n^{log_{13} 13} = n$ 
 
-Answer = \theta(n log n)$ is the answer 
+Answer = $\theta(n log n)$ is the answer 
 
 
 ## Sources 

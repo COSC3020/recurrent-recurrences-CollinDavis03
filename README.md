@@ -26,7 +26,7 @@ $T(1) + 5\log_{13} n$
 
 = log n 
 
-Answer: $T(n) \in \theta(log n)$
+Answer: $T(n) \in \Theta(log n)$
 
 2.
 $$ T(n) =
@@ -66,7 +66,7 @@ Since f(n) is $O(n^{1 - &#949;})$, the Master theorm states $T(n) = Theta(n^{log
 
 Which will give us T(n) = $\theta(n^1)$ = $\theta(n)$ 
 
-Answer: $T(n) \in \theta(n)$
+Answer: $T(n) \in \Theta(n)$
 
 
 3.
@@ -105,7 +105,7 @@ $T(n) = (n^{log_{a} b} * log n)$
 
 Since $n^{log_{13} 13} = n$ 
 
-Answer: $T(n) \in \theta(n log n)$
+Answer: $T(n) \in \Theta(n log n)$
 
 
 ## Sources 

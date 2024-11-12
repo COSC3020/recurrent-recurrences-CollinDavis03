@@ -26,7 +26,7 @@ $T(1) + 5\log_{13} n$
 
 = log n 
 
-= $\theta(log n)$ is the answer
+= $T(n) \in \theta(log n)$ is the answer
 
 2.
 $$ T(n) =
